@@ -2,7 +2,8 @@
 Voice Monitor Via Raspberry Pi 4B, creating a continuous recording of voice with volume higher than a threshold.
 
 ## Operating environment
-
+PortAudio required.
+PyAudio required.
 uname -a
 Linux alarmpi 5.4.81-2-ARCH #1 SMP PREEMPT Thu Dec 10 17:46:32 UTC 2020 armv7l GNU/Linux
 ```
