@@ -1,0 +1,2 @@
+nohup python monitor.py &
+
